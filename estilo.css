@@ -32,10 +32,17 @@ section.capital {
     padding: 2em;
 }
 
+
 section.capital img {
     max-width: 100%;
     height: auto;
     margin-bottom: 1em;
+}
+
+p{
+    background-color: #fff;
+    margin-left: 10rem;
+    margin-right: 10rem;
 }
 
 
