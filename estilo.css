@@ -1,3 +1,7 @@
+*{
+    margin: 0;
+}
+
 
 body {
     font-family: Arial, sans-serif;
@@ -14,7 +18,7 @@ header {
 
 nav ul {
     list-style-type: none;
-    padding: 0;
+    padding: 20px;
 }
 
 nav li {
@@ -41,8 +45,8 @@ section.capital img {
 
 p{
     background-color: #fff;
-    margin-left: 150px;
-    margin-right: 150px;
+    margin-left: 100px;
+    margin-right: 100px;
 }
 
 
